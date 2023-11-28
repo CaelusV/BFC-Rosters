@@ -1,26 +1,26 @@
 ---ALPHA SPACE BROS---
 
 -CURRENT LINE-UP-
-XXX01 +++ aeiou (c) (g) (a) +++ CF
-XXX02 +++ AAAAAAAAAAAAAAAAA (s) (a) +++ SS
+XXX01 +++ aeiou (c) (g) (a) [p=astronaut] +++ CF
+XXX02 +++ AAAAAAAAAAAAAAAAA (s) (a) [p=astronaut] +++ SS
 XXX03 +++ John Madden (g) (a) +++ SS
-XXX04 +++ 9999999999999999 (a) +++ RB
-XXX05 +++ football +++ LB
+XXX04 +++ 9999999999999999 (a) [p=astronaut] +++ RB
+XXX05 +++ football [p=astronaut] +++ LB
 XXX06 +++ Rover Stuck :( +++ CB
-XXX07 +++ Fantasmen (a) +++ DMF
-XXX08 +++ Hiram_Maxim +++ DMF
-XXX09 +++ Hedley_Lamar (a) +++ DMF
-XXX10 +++ FalcoonHolf +++ DMF
-XXX11 +++ come over come over come over +++ CB
+XXX07 +++ Fantasmen (a) [p=astronaut] +++ DMF
+XXX08 +++ Hiram_Maxim [p=astronaut] +++ DMF
+XXX09 +++ Hedley_Lamar (a) [p=astronaut] +++ DMF
+XXX10 +++ FalcoonHolf [p=astronaut] +++ DMF
+XXX11 +++ come over come over come over [p=astronaut] +++ CB
 XXX12 +++ No Servers :( (a) +++ CB
-XXX13 +++ Earth Is Flat XDDDD (a) +++ CB
-XXX14 +++ UUUUUUUUUUUUUUUUUU (s) (a) +++ AMF
-XXX15 +++ mamma mia, poppa pia, baby got the dy[aa<999,999>]reeeaaa +++ CB
-XXX16 +++ [:nf] +++ RB
-XXX17 +++ Why Do People Hate On Hitler Then? +++ RB
-XXX18 +++ Mark!! (a) +++ GK
-XXX19 +++ erbrbrbrbrbrbrbrbr +++ LB
+XXX13 +++ Earth Is Flat XDDDD (a) [p=astronaut] +++ CB
+XXX14 +++ UUUUUUUUUUUUUUUUUU (s) (a) [p=astronaut] +++ AMF
+XXX15 +++ mamma mia, poppa pia, baby got the dy[aa<999,999>]reeeaaa [p=astronaut] +++ CB
+XXX16 +++ [:nf] [p=astronaut] +++ RB
+XXX17 +++ Why Do People Hate On Hitler Then? [p=astronaut] +++ RB
+XXX18 +++ Mark!! (a) [p=astronaut] +++ GK
+XXX19 +++ erbrbrbrbrbrbrbrbr [p=astronaut] +++ LB
 XXX20 +++ 200 Noodles +++ DMF
-XXX21 +++ Funny Beacon +++ DMF
-XXX22 +++ Ear Rape (a) +++ LB
-XXX23 +++ [_<1,30>]spayyyyyyyyyyyace +++ GK
+XXX21 +++ Funny Beacon [p=astronaut] +++ DMF
+XXX22 +++ Ear Rape (a) [p=astronaut] +++ LB
+XXX23 +++ [_<1,30>]spayyyyyyyyyyyace [p=astronaut] +++ GK
