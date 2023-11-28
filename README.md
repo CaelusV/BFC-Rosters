@@ -13,6 +13,8 @@ A separate [p=] command can be added to specify a unique name for the player por
 This is useful to optimize space for players with identical portraits.
 Example: ```XXX01 +++ EXAMPLE NAME [p=sharedname] +++ GK```
 
+
+Example of a roster file:
 ```
 ---EXAMPLE TEAM---
 
@@ -32,9 +34,9 @@ XXX11 +++ EXAMPLE NAME (a) +++ CB
 XXX12 +++ EXAMPLE NAME (a) +++ GK
 XXX13 +++ EXAMPLE NAME (a) +++ DMF
 XXX14 +++ EXAMPLE NAME +++ DMF
-XXX15 +++ EXAMPLE NAME +++ LMF
-XXX16 +++ EXAMPLE NAME +++ CB
-XXX17 +++ EXAMPLE NAME +++ GK
+XXX15 +++ EXAMPLE NAME [p=sharedname] +++ LMF
+XXX16 +++ EXAMPLE NAME [p=sharedname] +++ CB
+XXX17 +++ EXAMPLE NAME [p=sharedname] +++ GK
 XXX18 +++ EXAMPLE NAME +++ RMF
 XXX19 +++ EXAMPLE NAME (a) +++ CB
 XXX20 +++ EXAMPLE NAME (a) +++ CB
