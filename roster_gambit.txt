@@ -2,26 +2,27 @@
 
 CURRENT LINE-UP:
 
-XXX01 +++ Gotcha, Bitch! (a) +++ GK
-XXX02 +++ Double Bishop (a) +++ LB
-XXX03 +++ King Of The Hill (a) +++ CB
-XXX04 +++ World Chess Championship 2023 (a) +++ CB
-XXX05 +++ Never Play F6 (a) +++ RB
-XXX06 +++ Whoops! I Imported The Wrong Queen Model +++ DMF
-XXX07 +++ A Blunder On Elm Street (a) +++ CMF
-XXX08 +++ Pawndemonium (a) +++ CMF
-XXX09 +++ Pawn With A Gun (a) +++ LWF
-XXX10 +++ A Gentleman's Game (a) +++ RWF
-XXX11 +++ Anti-Queen (a) +++ CF
-XXX12 +++ Il Vaticano +++ GK
-XXX13 +++ Archbishop +++ LB
-XXX14 +++ I Promote To Your King +++ LB
-XXX15 +++ Garry Chess +++ CB
-XXX16 +++ Knook +++ CB
-XXX17 +++ Lichuss +++ CB
-XXX18 +++ Kiddiephilia +++ RB
-XXX19 +++ Zebra +++ RB
-XXX20 +++ Checkmate, Atheist! +++ DMF
-XXX21 +++ Stockfish +++ DMF
-XXX22 +++ Knife F5 +++ CMF
-XXX23 +++ Your Flag Fell, Loser +++ CMF
+XXX01 +++ Il Vaticano +++ GK
+XXX02 +++ Gotcha, Bitch! (a) +++ GK
+XXX03 +++ Double Bishop (a) +++ CB
+XXX04 +++ Archbishop +++ DMF
+XXX05 +++ I Promote To Your King +++ CMF
+XXX06 +++ King Of The Hill (a) +++ CB
+XXX07 +++ World Chess Championship 2023 (a) +++ CB
+XXX08 +++ Knook +++ CB
+XXX09 +++ Lichuss +++ CB
+XXX10 +++ Garry Chess +++ CB
+XXX11 +++ Zebra +++ CB
+XXX12 +++ Kiddiephilia +++ CMF
+XXX13 +++ Never Play F6 (a) +++ CMF
+XXX14 +++ Stockfish +++ DMF
+XXX15 +++ Knife F5 +++ CMF
+XXX16 +++ Checkmate, Atheist! +++ DMF
+XXX17 +++ Pawndemonium (a) +++ CMF
+XXX18 +++ Whoops! I Imported The Wrong Queen Model (a) +++ DMF
+XXX19 +++ Your Flag Fell, Loser +++ CMF
+XXX20 +++ A Blunder On Elm Street (g) (a) +++ AMF
+XXX21 +++ Pawn With A Gun (s) (a) +++ LWF
+XXX22 +++ A Gentleman's Game (s) (a) +++ RWF
+XXX23 +++ Anti-Queen (g) (a) +++ CF
+
