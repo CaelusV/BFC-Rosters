@@ -15,13 +15,13 @@ XXX10 +++ Garry Chess +++ CB
 XXX11 +++ Zebra +++ CB
 XXX12 +++ Kiddiephilia +++ CMF
 XXX13 +++ Never Play F6 (a) +++ CMF
-XXX14 +++ Stockfish +++ DMF
-XXX15 +++ Knife F5 +++ CMF
+XXX14 +++ Stockfish +++ CB
+XXX15 +++ Knife F5 +++ AMF
 XXX16 +++ Checkmate, Atheist! +++ DMF
-XXX17 +++ Pawndemonium (a) +++ CMF
+XXX17 +++ Pawndemonium (a) +++ AMF
 XXX18 +++ Whoops! I Imported The Wrong Queen Model (a) +++ DMF
-XXX19 +++ Your Flag Fell, Loser +++ CMF
-XXX20 +++ A Blunder On Elm Street (g) (a) +++ AMF
-XXX21 +++ Pawn With A Gun (s) (a) +++ LWF
-XXX22 +++ A Gentleman's Game (s) (a) +++ RWF
-XXX23 +++ Anti-Queen (g) (a) +++ CF
+XXX19 +++ Your Flag Fell, Loser +++ AMF
+XXX20 +++ A Blunder On Elm Street (a) (g) +++ AMF
+XXX21 +++ Pawn With A Gun (a) (s) +++ LWF
+XXX22 +++ A Gentleman's Game (a) (s) +++ RWF
+XXX23 +++ Anti-Queen (a) (g) +++ CF
